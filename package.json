@@ -33,7 +33,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@ctrl/tinycolor": "^3.6.0",
+    "@ctrl/tinycolor": "^3.6.1",
     "@fontsource/raleway": "^5.0.8",
     "@fontsource/roboto": "^5.0.8",
     "@jaames/iro": "^5.5.2",
